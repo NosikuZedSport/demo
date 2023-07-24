@@ -1,12 +1,71 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+    "id": 1,
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+    "title": "Item 1",
+    "description": "Description for Item 1"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
+    "title": "Item 2",
+    "description": "Description for Item 2"
+  },
+  {
+    "id": 3,
+    "image": "https://image-processor-storage.s3.us-west-2.amazonaws.com/images/3cf61c1011912a2173ea4dfa260f1108/halo-of-neon-ring-illuminated-in-the-stunning-landscape-of-yosemite.jpg",
+    "title": "Item 3",
+    "description": "Description for Item 3"
+  },
+  {
+    "id": 4,
+    "image": "https://farm9.staticflickr.com/8174/8027574666_1980f9a88f_o.jpg",
+    "title": "Item 4",
+    "description": "Description for Item 4"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1531536406892-01ccce5640df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80",
+    "title": "Item 5",
+    "description": "Description for Item 5"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1597073535671-28a6f418055b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80",
+    "title": "Item 6",
+    "description": "Description for Item 6"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1619324221041-aae6d92344e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&w=1000&q=80",
+    "title": "Item 7",
+    "description": "Description for Item 7"
+  },
+  {
+    "id": 8,
+    "image": "https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/main_image_star-forming_region_carina_nircam_final-1280.jpg",
+    "title": "Item 8",
+    "description": "Description for Item 8"
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDAFRv78iF4sLnZ_6M8i_lpqoqhFMCrw0eN_yg0enRpeDyDO45sp3CVSUfyqW61wUfY8&usqp=CAU",
+    "title": "Item 9",
+    "description": "Description for Item 9"
+  },
+  {
+    "id": 10,
+    "image": "https://st2.depositphotos.com/1001001/9272/i/950/depositphotos_92720078-stock-photo-palau-islands-from-above.jpg",
+    "title": "Item 10",
+    "description": "Description for Item 10"
+  },
+  {
+    "id": 11,
+    "image": "https://media.gettyimages.com/id/148845316/photo/aerial-of-the-rock-islands-of-palau-or-ngerukuld-in-polynesian.jpg?s=612x612&w=gi&k=20&c=fkaDXj9yxF1BtbWoRs_wJ9ixRp9eIajckP58ePpZwOw=",
+    "title": "Item 11",
+    "description": "Description for Item 11"
+  },
   ],
   "profile": {
     "name": "typicode"
